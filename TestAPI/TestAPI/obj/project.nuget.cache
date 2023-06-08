@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "WuQ6ZNC5/DHAuFZQVS6CSHw+c5xdeV3fSwBfWl4tJveOhq8nMhBqhUQCSexBFKEOj6nxNZBeWmIsV6/72qPhYA==",
+  "success": true,
+  "projectFilePath": "/Users/gijsverdonk/Documents/Visual Studio Projecten/TestAPI/TestAPI/TestAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/gijsverdonk/.nuget/packages/microsoft.aspnetcore.openapi/7.0.5/microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "/Users/gijsverdonk/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/gijsverdonk/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/gijsverdonk/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/gijsverdonk/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/gijsverdonk/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/gijsverdonk/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

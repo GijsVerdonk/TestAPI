@@ -1,0 +1,12 @@
+/Users/gijsverdonk/Documents/Visual Studio Projecten/TestAPI/TestAPI/bin/Release/net7.0/publish/TestAPI
+/Users/gijsverdonk/Documents/Visual Studio Projecten/TestAPI/TestAPI/bin/Release/net7.0/publish/appsettings.Development.json
+/Users/gijsverdonk/Documents/Visual Studio Projecten/TestAPI/TestAPI/bin/Release/net7.0/publish/appsettings.json
+/Users/gijsverdonk/Documents/Visual Studio Projecten/TestAPI/TestAPI/bin/Release/net7.0/publish/TestAPI.dll
+/Users/gijsverdonk/Documents/Visual Studio Projecten/TestAPI/TestAPI/bin/Release/net7.0/publish/TestAPI.deps.json
+/Users/gijsverdonk/Documents/Visual Studio Projecten/TestAPI/TestAPI/bin/Release/net7.0/publish/TestAPI.runtimeconfig.json
+/Users/gijsverdonk/Documents/Visual Studio Projecten/TestAPI/TestAPI/bin/Release/net7.0/publish/TestAPI.pdb
+/Users/gijsverdonk/Documents/Visual Studio Projecten/TestAPI/TestAPI/bin/Release/net7.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/gijsverdonk/Documents/Visual Studio Projecten/TestAPI/TestAPI/bin/Release/net7.0/publish/Microsoft.OpenApi.dll
+/Users/gijsverdonk/Documents/Visual Studio Projecten/TestAPI/TestAPI/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/gijsverdonk/Documents/Visual Studio Projecten/TestAPI/TestAPI/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/gijsverdonk/Documents/Visual Studio Projecten/TestAPI/TestAPI/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
